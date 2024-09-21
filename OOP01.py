@@ -38,5 +38,5 @@ newCar.addFuel(50)
 newCar.drive(100)
 
 #print the remaining fuel level
-print(f"Remaining fuel level: {newCar.getFuelLevel()} liters")
+print(f"Remaining fuel level: {newCar.getFuelLevel()} liters.")
 
